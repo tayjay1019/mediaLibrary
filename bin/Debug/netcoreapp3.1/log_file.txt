@@ -1,0 +1,9 @@
+2020-10-05 08:31:21.2219|INFO|MediaLibrary.Program|Program started
+2020-10-05 08:31:21.4314|INFO|MediaLibrary.Program|Program ended
+2020-10-05 08:39:03.5201|INFO|MediaLibrary.Program|Program started
+2020-10-05 08:39:04.3732|INFO|MediaLibrary.Program|Program ended
+2020-10-05 08:45:13.4461|INFO|MediaLibrary.Program|Program started
+2020-10-05 08:45:13.5762|INFO|MediaLibrary.FileScrubber|File scrub started
+2020-10-05 08:45:14.0202|INFO|MediaLibrary.FileScrubber|File scrub ended
+2020-10-05 08:45:14.0329|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-05 08:45:14.0487|INFO|MediaLibrary.Program|Program ended

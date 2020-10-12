@@ -1,0 +1,15 @@
+C:\Users\tayja\Desktop\mediaLibrary\bin\Debug\netcoreapp3.1\mediaLibrary.exe
+C:\Users\tayja\Desktop\mediaLibrary\bin\Debug\netcoreapp3.1\mediaLibrary.deps.json
+C:\Users\tayja\Desktop\mediaLibrary\bin\Debug\netcoreapp3.1\mediaLibrary.runtimeconfig.json
+C:\Users\tayja\Desktop\mediaLibrary\bin\Debug\netcoreapp3.1\mediaLibrary.runtimeconfig.dev.json
+C:\Users\tayja\Desktop\mediaLibrary\bin\Debug\netcoreapp3.1\mediaLibrary.dll
+C:\Users\tayja\Desktop\mediaLibrary\bin\Debug\netcoreapp3.1\mediaLibrary.pdb
+C:\Users\tayja\Desktop\mediaLibrary\obj\Debug\netcoreapp3.1\mediaLibrary.csprojAssemblyReference.cache
+C:\Users\tayja\Desktop\mediaLibrary\obj\Debug\netcoreapp3.1\mediaLibrary.AssemblyInfoInputs.cache
+C:\Users\tayja\Desktop\mediaLibrary\obj\Debug\netcoreapp3.1\mediaLibrary.AssemblyInfo.cs
+C:\Users\tayja\Desktop\mediaLibrary\obj\Debug\netcoreapp3.1\mediaLibrary.dll
+C:\Users\tayja\Desktop\mediaLibrary\obj\Debug\netcoreapp3.1\mediaLibrary.pdb
+C:\Users\tayja\Desktop\mediaLibrary\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\tayja\Desktop\mediaLibrary\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\tayja\Desktop\mediaLibrary\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\tayja\Desktop\mediaLibrary\obj\Debug\netcoreapp3.1\mediaLibrary.csproj.CopyComplete
